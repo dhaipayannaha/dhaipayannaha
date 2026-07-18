@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1B7eARC2atmCmo-jNfPm9VwwU1R4XsGrl" alt="Banner" width="900">
 </p>
-<h1 align="center">Hi 👋, I'm Dhaipayan</h1>
+  <h1 align="center">Hi 👋, I'm Dhaipayan</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50" alt="Typing SVG" />
@@ -17,8 +17,6 @@
 🌐 Explore My Portfolio TouhidCodes and My Resume <br/>
 📝 I regularly write articles on LinkedIn <br/>
 📫 Feel free to reach me out Email <br/>
-
----
 
 ## 🛠️ Tech Stack  
 
