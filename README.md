@@ -1,4 +1,5 @@
-# Hi 👋, I'm <YOUR NAME>  
+# Hi 👋, I'm Dhaipayan
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
