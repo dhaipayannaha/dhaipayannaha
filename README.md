@@ -8,10 +8,8 @@
   </a>
 </p>
 
----
-
 ## 👨💻 About Me  
-👋 Hi, I’m @touhidcodes <br/>
+👋 Hi, I’m @dhaipayannaha <br/>
 🖥️ I’m currently working on React.js, Next.js, Typescript and Redux for frontend development.<br/>
 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.<br/>
 🛠️ I’m currently learning React Native, GraphQL, Docker and AWS.<br/>
