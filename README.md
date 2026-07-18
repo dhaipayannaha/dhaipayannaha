@@ -1,4 +1,5 @@
-#                                                                                                Hi 👋, I'm Dhaipayan
+
+<h1 align="center">Hi 👋, I'm Dhaipayan</h1>
 ![]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5](https://drive.google.com/file/d/1B7eARC2atmCmo-jNfPm9VwwU1R4XsGrl/view?usp=sharing))
 ### 🔭 I build things with JavaScript, React, and Node.js
 
