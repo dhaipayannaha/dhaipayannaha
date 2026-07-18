@@ -5,19 +5,18 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50" alt="Typing SVG" />
   </a>
 </p>
-### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
 
 ## 👨💻 About Me  
-👋 Hi, I’m @touhidcodes
-🖥️ I’m currently working on React.js, Next.js, Typescript and Redux for frontend development.
-🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.
-🛠️ I’m currently learning React Native, GraphQL, Docker and AWS.
-💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).
-🌐 Explore My Portfolio TouhidCodes and My Resume
-📝 I regularly write articles on LinkedIn
-📫 Feel free to reach me out Email
+👋 Hi, I’m @touhidcodes <br/>
+🖥️ I’m currently working on React.js, Next.js, Typescript and Redux for frontend development.<br/>
+🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.<br/>
+🛠️ I’m currently learning React Native, GraphQL, Docker and AWS.<br/>
+💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).<br/>
+🌐 Explore My Portfolio TouhidCodes and My Resume <br/>
+📝 I regularly write articles on LinkedIn <br/>
+📫 Feel free to reach me out Email <br/>
 
 ---
 
