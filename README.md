@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1B7eARC2atmCmo-jNfPm9VwwU1R4XsGrl" alt="Banner" width="95%">
+  <img src="https://drive.google.com/uc?export=view&id=1B7eARC2atmCmo-jNfPm9VwwU1R4XsGrl" alt="Banner" width="900">
 </p>
 <h1 align="center">Hi 👋, I'm Dhaipayan</h1>
 <p align="center">
