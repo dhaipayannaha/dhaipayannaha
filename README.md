@@ -14,7 +14,7 @@
 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.<br/>
 🛠️ I’m currently learning React Native, GraphQL, Docker and AWS.<br/>
 💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).<br/>
-🌐 Explore My Portfolio TouhidCodes and My Resume <br/>
+🌐 Explore My Portfolio dhaipayannaha and My Resume <br/>
 📝 I regularly write articles on LinkedIn <br/>
 📫 Feel free to reach me out Email <br/>
 
